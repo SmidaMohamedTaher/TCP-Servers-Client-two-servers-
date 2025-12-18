@@ -27,7 +27,7 @@ we have three parties :
 
 ### how it running :
 
-<img title="" alt="Alt text" src="images/run.png">
+![Project Banner](images/run.png)
 
 ### the staps of the execution :
 
